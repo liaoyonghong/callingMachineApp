@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">callingMachineApp</string>
+    <string name="title_activity_main">CallingMachine</string>
+</resources>
